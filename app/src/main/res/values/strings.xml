@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="info">界面</string>
+
+    <string name="start">开始答题</string>
+    <string name="titlelist">请输入答题的list(1~50)</string>
+    <string name="answertitle">答题</string>
+
+
+</resources>
+
